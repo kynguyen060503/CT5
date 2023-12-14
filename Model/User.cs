@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace test_Git.Model
 {
-    internal class Student
+    internal class User
     {
+        public int MSSV { get; set; }
     }
 }
