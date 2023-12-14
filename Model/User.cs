@@ -8,5 +8,6 @@ namespace test_Git.Model
 {
     internal class Student
     {
+        public int Id { get; set; }
     }
 }
